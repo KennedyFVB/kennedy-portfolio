@@ -18,6 +18,8 @@ Serve with live server
 
 ## live link
 
+https://kennedyfvb.github.io/kennedy-portfolio/
+
 ## copyright and license information
 
 (c) 2022 Kennedy Kahura
